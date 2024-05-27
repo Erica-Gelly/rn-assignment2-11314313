@@ -22,4 +22,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 24,
   },
+  bold: {
+    fontWeight: 'bold',
+  },
 });
